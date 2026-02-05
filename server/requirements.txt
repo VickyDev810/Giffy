@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pydantic
+pydantic-settings
+python-jose[cryptography]
+python-multipart
+instaloader
+httpx
+apscheduler
+alembic
+# Agent dependencies
+agent-framework
+openai
+sse-starlette
